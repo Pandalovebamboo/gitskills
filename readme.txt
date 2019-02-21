@@ -9,3 +9,5 @@ Creating a new branch is quick AND simple.
 >>>>>>> feature1
 
 add non_ff merge.
+
+add git is free software.
